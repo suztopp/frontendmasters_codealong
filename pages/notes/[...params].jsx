@@ -1,5 +1,6 @@
 import React from 'react'
 import { useRouter } from 'next/router'
+import Link from 'next/link'
 
 export default function NotePage() {
   const router = useRouter()
@@ -8,8 +9,12 @@ export default function NotePage() {
   // console.log(params)
 
   return (
-    <div>
+    <div style={{ textAlign: 'center', fontSize: '30px' }}>
       <h1>NOTE {params}</h1>
+
+      <Link href="/">
+        <a>INDEX</a>
+      </Link>
     </div>
   )
 }
