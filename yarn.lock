@@ -1331,6 +1331,11 @@ domain-browser@^1.1.1:
   resolved "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
   integrity sha512-jnjyiM6eRyZl2H+W8Q/zLMA481hzi0eszAaBUzIVnmYVDBbnLxVNnfu1HgEBvCbL+71FrxMl3E6lpKH7Ge3OXA==
 
+dotenv@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
+  integrity sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==
+
 electron-to-chromium@^1.3.723:
   version "1.3.806"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.806.tgz#21502100f11aead6c501d1cd7f2504f16c936642"
@@ -2427,6 +2432,11 @@ natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
+
+next-env@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/next-env/-/next-env-1.1.1.tgz#4ec4c1f745f36a24fe95d500d1118a3e934d6d6e"
+  integrity sha512-uZo/u0GhmkUaSg4Dcx39QsEGRFw2eianNsdzdm/9Bd4bTAfzDH/D6y0WyB34sESZ5hXPctHg3t3Q3U99QAMc1w==
 
 next@11.1.0:
   version "11.1.0"
